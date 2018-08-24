@@ -1,0 +1,199 @@
+h1{
+	color:yellow;
+	text-align:center;
+	font-size:70px;
+	margin-top:50px;
+}
+
+/* h1	 */
+#mysec{
+	
+	border:6px dotted #FFFACD;
+	background-color:rgba(0,50,70,1);
+	
+
+}
+/* image appl */
+#myimg1{
+	width:200px; 
+	height:200px;
+	border:4px dashed #FFFF00;
+	margin-top:30px;
+	margin-left:1100px;
+
+}
+
+/* image samsung */
+#myimg2{
+	width:200px; 
+	height:200px;
+	border:4px solid #FFFF00;
+	margin-top:10px;
+	margin-left:1100px;
+
+}
+
+/* image huawei */
+#myimg3{
+	width:200px; 
+	height:200px;
+	border:4px ridge #FFFF00;
+	margin-top:10px;
+	margin-left:1100px;
+
+}
+/* image Sony */
+#myimg4{
+	width:200px; 
+	height:200px;
+	border:4px ridge #FFFF00;
+	margin-top:-305px;
+	margin-left:725px;
+
+}
+/* image LG */
+#myimg5{
+	width:200px; 
+	height:200px;
+	border:4px dotted #FFFF00;
+	margin-top:-305px;
+	margin-left:375px;
+
+}
+
+#myimg6{
+	width:200px; 
+	height:200px;
+	border:4px dashed #FFFF00;
+	margin-top:-305px;
+	margin-left:20px;
+
+}
+
+#myimg7{
+	width:200px; 
+	height:200px;
+	border:4px solid #FFFF00;
+	margin-top:-635px;
+	margin-left:20px;
+
+}
+
+#myimg8{
+	width:200px; 
+	height:200px;
+	border:4px solid #FFFF00;
+	margin-top:-638px;
+	margin-left:20px;
+
+}
+
+#myimg9{
+	width:50px; 
+	height:50px;
+	margin-top:600px;
+	margin-left:710px;
+
+}
+
+#myimg10{
+	width:50px; 
+	height:50px;
+	margin-top: -400px;
+	margin-left:650px;
+
+}
+
+#myimg11{
+	width:50px; 
+	height:50px;
+	margin-top: -40px;
+	margin-left:600px;
+
+}
+#myhead{
+	width:100px;
+	height:175px;
+	margin-top:-160px;
+	/* margin-left:20px; */
+}
+
+#myhead2{
+	width:100px;
+	height:175px;
+	margin-top:-160px;
+	 margin-left:1115px; 
+}
+#mypar{
+	margin-top:10px;
+	margin-left:1150px;
+	color:rgba(249,206,0,1);
+	font-size:40px;
+}
+#mypar2{
+	margin-top:10px;
+	margin-left:1125px;
+	color:rgba(249,206,0,1);
+	font-size:40px;
+}
+#mypar3{
+	margin-top:10px;
+	margin-left:1150px;
+	color:rgba(249,206,0,1);
+	font-size:40px;
+}
+#mypar4{
+	margin-top:-85px;
+	margin-left:775px;
+	color:rgba(249,206,0,1);
+	font-size:40px;
+}
+
+#mypar5{
+	margin-top:-85px;
+	margin-left:450px;
+	color:rgba(249,206,0,1);
+	font-size:40px;
+}
+
+#mypar10{
+	margin-top:50px;
+	margin-left:600px;
+	color:rgba(249,218,79,1);
+	font-size:20px;
+	
+}
+
+#mypar7{
+	margin-top:-85px;
+	margin-left:60px;
+	color:rgba(249,206,0,1);
+	font-size:40px;
+}
+
+#mypar8{
+	margin-top:-400px;
+	margin-left:60px;
+	color:rgba(249,206,0,1);
+	font-size:40px;
+}
+
+#mypar9{
+	margin-top:-410px;
+	margin-left:80px;
+	color:rgba(249,206,0,1);
+	font-size:40px;
+}
+
+#marq{
+	font-size:30px;
+	color:rgba(255,59,29,1);
+	background:rgba(255,240,186,1);
+}
+#mynav{
+	
+	color:yellow;
+	font-size:20px;
+	background:rgba(215,255,171,1);
+}
+
